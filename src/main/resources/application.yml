@@ -1,0 +1,9 @@
+server:
+  port: 8083
+
+solace:
+  jms:
+    host: smf://localhost:55555
+    msg-vpn: default
+    client-username: default
+    client-password: default
